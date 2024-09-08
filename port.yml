@@ -1,0 +1,9 @@
+# enrichService.yml
+
+- identifier: "DemoPdService"
+  blueprint: service
+  properties:
+    type: "frontend"
+    lifecycle: "Experimental"
+  relations:
+    domain: "null"
