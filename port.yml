@@ -3,7 +3,7 @@
 - identifier: "DemoPdService"
   blueprint: service
   properties:
-    type: "frontend"
+    type: "backend"
     lifecycle: "Experimental"
   relations:
     domain: "null"
