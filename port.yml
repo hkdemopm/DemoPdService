@@ -6,4 +6,4 @@
     type: "frontend"
     lifecycle: "Experimental"
   relations:
-    domain: "null"
+    domain: "payment"
